@@ -1,6 +1,7 @@
 .main {
     background: FFFFFF;
-    max-width: 823px;
+    max-width: 1920px;
+    min-width: 320px;
     max-height: 300px;
     margin: 0px auto;
    
